@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -66,7 +66,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FabiRami94&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
