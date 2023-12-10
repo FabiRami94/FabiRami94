@@ -47,7 +47,6 @@
 
 
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/FabiRami94" target="_blank">
